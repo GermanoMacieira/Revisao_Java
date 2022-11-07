@@ -27,13 +27,14 @@ public class Funcionario {
 
     // MÉTODOS:
     public void imprime() {
-        System.out.println(this.cpfDoFunc);
-        System.out.println(this.nomeDoFunc);
-        System.out.println(this.enderecoDoFunc);
-        System.out.println(this.telefoneDoFunc);
-        System.out.println(this.cargoDoFunc);
-        System.out.println(this.departamentoDoFunc);
-        System.out.println(this.salarioDoFunc);
+        System.out.println("-------------------------------------------");
+        System.out.println("CPF: " + this.cpfDoFunc);
+        System.out.println("Nome: " + this.nomeDoFunc);
+        System.out.println("Endereço: " + this.enderecoDoFunc);
+        System.out.println("Telefone: " + this.telefoneDoFunc);
+        System.out.println("Cargo: " + this.cargoDoFunc);
+        System.out.println("Departamento: " + this.departamentoDoFunc);
+        System.out.println("Salário: " + this.salarioDoFunc);
     }
 
     // SETTERS-GETTERS:
