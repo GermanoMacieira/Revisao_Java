@@ -1,6 +1,6 @@
-package heranca.model;
+package heranca1.dominio;
 
-public class Diretor extends Funcionario{
+public class Diretor extends Funcionario {
     // ATRIBUTOS: Todos os atributos serão herdados da classe mãe!
     // CONSTRUTORES: ATENÇÃO: Construtores NÃO são herdados, temos que reescrevê-lo baseado na classe mãe!
     public Diretor(String cpfDoFunc, String nomeDoFunc, String enderecoDoFunc, String telefoneDoFunc, String cargoDoFunc, String departamentoDoFunc, double salarioDoFunc) {

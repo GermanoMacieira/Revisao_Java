@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73b12d48-a80e-4fdc-acf4-e42e0357ac0e" name="Changes" comment="Back-end: acrescentando modelos de herança.">
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main2.java" afterDir="false" />
+    <list default="true" id="73b12d48-a80e-4fdc-acf4-e42e0357ac0e" name="Changes" comment="Back-end: acrescentando dois arquivos main.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heranca/model/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heranca/model/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heranca/model/teste/TesteHerancaMain1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heranca/model/teste/TesteHerancaMain2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,16 +49,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main2">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Application.TesteHerancaMain1">
+    <configuration name="TesteHerancaMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="heranca.model.AppTeste.TesteHerancaMain1" />
       <module name="Revisao_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main2" />
+    <configuration name="TesteHerancaMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="heranca.model.AppTeste.TesteHerancaMain2" />
       <module name="Revisao_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,8 +66,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TesteHerancaMain1" />
+        <item itemvalue="Application.TesteHerancaMain2" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667777931831</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Back-end: acrescentando dois arquivos main.">
+      <created>1667830234337</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667830234337</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,7 +124,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Back-end: acrescentando modelos de herança." />
-    <option name="LAST_COMMIT_MESSAGE" value="Back-end: acrescentando modelos de herança." />
+    <MESSAGE value="Back-end: acrescentando dois arquivos main." />
+    <option name="LAST_COMMIT_MESSAGE" value="Back-end: acrescentando dois arquivos main." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

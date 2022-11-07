@@ -1,8 +1,10 @@
-import heranca.model.Diretor;
-import heranca.model.Funcionario;
-import heranca.model.Gerente;
+package heranca1.AppTeste;
 
-public class Main2 {
+import heranca1.dominio.Diretor;
+import heranca1.dominio.Funcionario;
+import heranca1.dominio.Gerente;
+
+public class TesteHerancaMain2 {
     public static void main(String[] args) {
 
         // USANDO O CONSTRUTOR:
