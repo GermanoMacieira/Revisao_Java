@@ -1,8 +1,8 @@
 package heranca1.AppTeste;
 
-import heranca1.dominio.Diretor;
-import heranca1.dominio.Funcionario;
-import heranca1.dominio.Gerente;
+import heranca1.model.Diretor;
+import heranca1.model.Funcionario;
+import heranca1.model.Gerente;
 
 public class TesteHerancaMain2 {
     public static void main(String[] args) {

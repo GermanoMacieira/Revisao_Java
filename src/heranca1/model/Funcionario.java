@@ -1,4 +1,4 @@
-package heranca1.dominio;
+package heranca1.model;
 
 public class Funcionario {
 
